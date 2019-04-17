@@ -1,0 +1,6 @@
+Git = gestion des versions
+La maniere d'analyser le code:
+variable, affectation
+debeugage = detection d'erreurs //val(), + "px" // () text
+raisonnement = repetition inutile
+organisation des fichiers et du code de l'application
